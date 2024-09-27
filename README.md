@@ -1,5 +1,8 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
+## DEPLOY LIVE LINK ->
+https://sharedocs-self.vercel.app/
+
 ## Introduction
 Built with Next.js to handle the user interface, Liveblocks for real-time features and styled with TailwindCSS, ShareDocs is a clone of Goole Docs. 
 
