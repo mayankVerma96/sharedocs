@@ -102,7 +102,7 @@ export const updateDocumentsAccess = async ({
     });
 
     if (room) {
-      // send a notification to the invited user
+      // send a notification to the invited user for access
       const notificationId = nanoid();
 
       await liveblocks.triggerInboxNotification({
